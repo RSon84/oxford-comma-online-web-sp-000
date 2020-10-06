@@ -1,3 +1,4 @@
 def oxford_comma(array)
-array.split
+words = array.split
+puts words
 end
